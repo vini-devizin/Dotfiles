@@ -1,0 +1,13 @@
+import:
+ -  ~/.config/alacritty/themes/dracula.yaml
+
+window:
+  padding:
+    x: 10
+    y: 10
+  decorations: none
+  opacity: 0.9
+
+key_bindings:
+  - { key: Return, mods: Control|Shift, action: SpawnNewInstance }
+  - { key: F11, action: ToggleFullscreen }
