@@ -1,0 +1,9 @@
+configuration {
+	modi: "drun,run,window";
+	font: "Firacode Nerd Font 12";
+	show-icons: true;
+	icon-theme: "WhiteSur-Dark";
+	drun-display-format: "{name}";
+}
+
+@theme "/home/vinizera/.local/share/rofi/themes/rounded-nord-dark.rasi"
